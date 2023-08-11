@@ -7,6 +7,7 @@ function devolverString(string) {
    return string;
 }
 
+
 // ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
@@ -15,10 +16,11 @@ function suma(x, y) {
    return x + y;
 }
 
+
 function resta(x, y) {
    // Retorna el resultado de la resta.
    // Tu código:
-   return x-y;
+   return x - y;
    }
 
 function divide(x, y) {
@@ -30,12 +32,13 @@ function divide(x, y) {
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
+   return x * y
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
-   
+   return
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
